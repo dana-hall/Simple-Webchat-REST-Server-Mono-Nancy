@@ -1,0 +1,2 @@
+#!/bin/bash
+mono webchat/bin/Debug/webchat.exe
